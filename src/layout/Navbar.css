@@ -1,0 +1,12 @@
+.custom-navbar {
+    background-color: #006400; /* verde închis */
+    color: white; /* text alb pentru contrast */
+}
+
+.custom-navbar .navbar-nav .nav-link {
+    color: #fff; /* asigură-te că link-urile sunt vizibile */
+}
+
+.custom-navbar .navbar-toggler-icon {
+    background-color: white; /* iconița de toggle pentru mobil */
+}
